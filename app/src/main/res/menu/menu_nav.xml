@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_ongkir"
+        android:title="@string/ongkir"
+        android:icon="@drawable/ic_baseline_money_24"
+        android:checked="true"
+        />
+    <item
+        android:id="@+id/menu_resi"
+        android:title="@string/resi"
+        android:icon="@drawable/ic_baseline_sticky_note_2_24"
+        android:checked="true"
+        />
+    <item
+    android:id="@+id/menu_profile"
+    android:title="Profil"
+    android:icon="@drawable/ic_baseline_people_alt_24"
+    android:checked="true"
+    />
+</menu>
